@@ -1,0 +1,32 @@
+[package]
+name = "mvc_example"
+version = "0.1.0"
+authors = ["Rémy Loubradou <r.loubradou@adveez.com>"]
+
+
+[dependencies.iron]
+version = "*"
+
+[dependencies.urlencoded]
+
+git = "https://github.com/iron/urlencoded.git"
+
+[dependencies.logger]
+
+git = "https://github.com/iron/logger.git"
+
+[dependencies.router]
+
+git = "https://github.com/iron/router.git"
+
+[dependencies.mount]
+
+git = "https://github.com/iron/mount.git"
+
+[dependencies.staticfile]
+
+git = "https://github.com/iron/staticfile.git"
+
+[dependencies.bodyparser]
+
+git = "https://github.com/iron/body-parser.git"

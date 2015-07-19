@@ -1,5 +1,5 @@
 [root]
-name = "mvc_example"
+name = "mvc-example"
 version = "0.1.0"
 dependencies = [
  "bodyparser 0.0.5 (git+https://github.com/iron/body-parser.git)",

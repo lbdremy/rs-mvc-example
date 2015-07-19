@@ -1,5 +1,5 @@
 [package]
-name = "mvc_example"
+name = "mvc-example"
 version = "0.1.0"
 authors = ["Rémy Loubradou <r.loubradou@adveez.com>"]
 
